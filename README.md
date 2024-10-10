@@ -1,5 +1,5 @@
 # JavaScript_Stuff_2024
-#covered the following JS Function:
+## covered the following JS Function: [Click here to explore the function stuff](https://github.com/MariomEmu/JavaScript_Stuff_2024/blob/main/JS-Function24/script.js)
 
 ✅ What and Why JavaScript Functions
 
