@@ -30,3 +30,30 @@
 ✅ IIFE
 
 ✅ Recursion
+
+
+## JavaScript Asynchronous 
+ [Click here to explore the JavaScript Asynchronous](https://github.com/MariomEmu/JavaScript_Stuff_2024/blob/main/Asynchronous%20JavaScript/script.js)
+
+ ✅ setTimeout function
+ 
+ ✅ callbacks w/examples
+ 
+ ✅ Callback hell
+ 
+ ✅ Promises & promise cycle
+ 
+ ✅ Promise Chaining
+ 
+ ✅ error handling
+ 
+ ✅ finally handler 
+ 
+ ✅ Async/ Await 
+ 
+ ✅ try catch finally
+ 
+ ✅ Await keyword w/ example
+ 
+ ✅ ice cream w/ async/await
+
